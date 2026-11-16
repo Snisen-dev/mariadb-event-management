@@ -1,0 +1,12 @@
+.env
+.env.*
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.sql.gz
+*.dump
+*.bak
+*.key
+*.pem
+
